@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900">
+    <main className="flex min-h-screen flex-col items-center justify-center bg-studio-dark">
       <div className="text-center">
         <h1 className="text-5xl font-bold text-white mb-4">Studio37</h1>
         <p className="text-xl text-gray-300 mb-8">
@@ -9,7 +9,7 @@ export default function Home() {
         <div className="flex gap-4 justify-center">
           <a
             href="/gallery"
-            className="px-6 py-3 bg-orange-500 text-white rounded-lg hover:bg-orange-600 transition"
+            className="px-6 py-3 bg-studio-orange text-white rounded-lg hover:opacity-90 transition"
           >
             View Gallery
           </a>
