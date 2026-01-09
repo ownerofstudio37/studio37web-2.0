@@ -147,7 +147,7 @@ export default function Home() {
 
           <div className="bg-white border-l-4 border-studio-orange p-8 rounded">
             <p className="text-gray-700 text-lg">
-              <strong>Starting your photography journey?</strong> Contact us for a free consultation to discuss your needs and see if we're the right fit for your project.
+              <strong>Starting your photography journey?</strong> Contact us for a free consultation to discuss your needs and see if we&apos;re the right fit for your project.
             </p>
           </div>
         </div>
@@ -160,7 +160,7 @@ export default function Home() {
             Ready to Work With Us?
           </h2>
           <p className="text-xl text-gray-300">
-            Let's create stunning images that tell your story. Available for bookings in Pinehurst, Magnolia, and surrounding areas.
+            Let&apos;s create stunning images that tell your story. Available for bookings in Pinehurst, Magnolia, and surrounding areas.
           </p>
           <div className="flex gap-4 justify-center flex-wrap">
             <a
