@@ -1,0 +1,10 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Orange circle background -->
+  <circle cx="100" cy="100" r="95" fill="#E67E22"/>
+  
+  <!-- White text/mark -->
+  <text x="100" y="120" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="white" text-anchor="middle">37</text>
+  
+  <!-- Optional: subtle shadow/border -->
+  <circle cx="100" cy="100" r="95" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+</svg>

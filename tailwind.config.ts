@@ -8,8 +8,13 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        primary: 'var(--primary)',
-        secondary: 'var(--secondary)',
+        studio: {
+          orange: '#E67E22',
+          dark: '#1a1a1a',
+          light: '#f5f5f5',
+        },
+        primary: '#E67E22',
+        secondary: '#1a1a1a',
       },
       fontFamily: {
         sans: ['var(--font-sans)'],
